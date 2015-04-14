@@ -3,6 +3,8 @@ solution/
 book/
 slides/
 .DS_Store
+*.zip
+*.
 *.pages
 *.pdf
 *.html
