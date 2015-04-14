@@ -2,12 +2,7 @@ KuroseRose6e_WiresharkDOCs_012813/
 solution/
 book/
 slides/
-HW1/
-HW2/
-HW3/
-HW5/
 .DS_Store
-*.md
 *.pdf
 *.html
 wireshark-traces
