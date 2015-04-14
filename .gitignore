@@ -3,6 +3,7 @@ solution/
 book/
 slides/
 .DS_Store
+*.pages
 *.pdf
 *.html
 wireshark-traces
